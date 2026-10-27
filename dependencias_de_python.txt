@@ -1,3 +1,4 @@
+streamlit
 geopandas
 libpysal
 esda
@@ -7,8 +8,3 @@ statsmodels
 scikit-learn
 seaborn
 plotly
-gradio
-tabulate
-numpy
-pandas
-matplotlib
