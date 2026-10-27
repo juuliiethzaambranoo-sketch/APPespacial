@@ -12,9 +12,6 @@ Original file is located at
 # (se mantiene TODO lo que funcionaba + se incorpora el 3D del ejemplo corregido)
 # =============================================================================
 
-!pip install -q geopandas libpysal esda spreg mapclassify \
-               statsmodels scikit-learn seaborn plotly gradio tabulate 2>/dev/null
-
 import warnings
 warnings.filterwarnings("ignore")
 
