@@ -1,0 +1,14 @@
+geopandas
+libpysal
+esda
+spreg
+mapclassify
+statsmodels
+scikit-learn
+seaborn
+plotly
+gradio
+tabulate
+numpy
+pandas
+matplotlib
